@@ -14,5 +14,15 @@ Bu çalışmada, sosyal medya platformlarında üretilen verilerin yapay zekâ t
 - **Dengesiz Veri Sorunu:** Veri seti dengesiz olduğu için, model performansını artırmak adına SMOTE (Sentetik Azınlık Aşırı Örnekleme Tekniği) yöntemi kullanılarak veri çoğaltma işlemi yapılmıştır.
 - **En Yüksek Performans:** Rastgele Orman (Random Forest) algoritması, 0.88 F-Skor değeri ile en başarılı sonuçları elde etmiştir.
 
+## Kullanılan Teknolojiler ve Kütüphaneler
+
+-Python
+-scikit-learn
+-TensorFlow / PyTorch
+-Pandas
+-Numpy
+-Matplotlib
+-Searborn
+
 
 
