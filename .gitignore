@@ -1,6 +1,4 @@
-# Exclude everything by default
-*
-
 # Allow only the 'Python Files' folder
+Notebooks/*
 !Python Files/
 !Python Files/*
