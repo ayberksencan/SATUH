@@ -1,5 +1,6 @@
-Colab Notebooks/
-Notebooks/Colab Notebooks/
-Notebooks/Python Files/*
-!Notebooks/Python Files/Update/
-!Notebooks/Python Files/Update/*
+# Exclude everything by default
+*
+
+# Allow only the 'Python Files' folder
+!Python Files/
+!Python Files/*
