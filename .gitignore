@@ -1,4 +1,10 @@
-# Allow only the 'Python Files' folder
+# Exclude everything inside Notebooks by default
 Notebooks/*
-!Python Files/
-!Python Files/*
+
+# Allow only the 'Python Files' folder and its contents
+!Notebooks/Python Files/
+!Notebooks/Python Files/*
+
+# Explicitly exclude 'Older Files' and 'Colab Notebooks'
+Notebooks/Older Files/
+Notebooks/Colab Notebooks/
